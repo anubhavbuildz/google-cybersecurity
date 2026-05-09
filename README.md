@@ -57,8 +57,8 @@ _Once completed, I will link my professional badge and certificate here._
 
 I'm excited to share my progress and connect with others in the cybersecurity community!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/infrabyanubhav)
-- **Email:** [infrabyanubhav@gmail.com](mailto:[EMAIL_ADDRESS])
+- **LinkedIn:** [infrabyanubhav](https://linkedin.com/in/infrabyanubhav)
+- **Email:** [infrabyanubhav@gmail.com](mailto:infrabyanubhav@gmail.com)
 
 ---
 
