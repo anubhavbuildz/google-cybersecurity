@@ -10,7 +10,7 @@ The Google Cybersecurity Professional Certificate is a rigorous, hands-on progra
 
 ### 📚 Course Modules
 
-- [ ] **Course 1:** Foundations of Cybersecurity
+- [x] **Course 1:** Foundations of Cybersecurity
 - [ ] **Course 2:** Play It Safe: Manage Security Risks
 - [ ] **Course 3:** Connect and Protect: Networks and Network Security
 - [ ] **Course 4:** Tools of the Trade: Linux and SQL
@@ -63,5 +63,4 @@ I'm excited to share my progress and connect with others in the cybersecurity co
 ---
 
 _Last Updated: May 2026_
-# google-cybersecurity
 # google-cybersecurity
